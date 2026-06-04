@@ -29,6 +29,9 @@ Date: 2026-06-04
 ## Author
 Name: Anish Dasgupta
 
+## Student Information
+**Name:** Anish Dasgupta
+**Student ID:** 136059250
 ## Contributing
 Pull requests are welcome. Please open an issue first to discuss major changes.
 
