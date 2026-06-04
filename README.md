@@ -36,3 +36,10 @@ Pull requests are welcome. Please open an issue first to discuss major changes.
 - Ensure Python version >= 3.9
 - Activate virtual environment before running scripts
 - Use `pip install --upgrade pip` if installation fails
+
+## License
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+## Acknowledgements
+- OpenCV community
+- MLOps course instructors
