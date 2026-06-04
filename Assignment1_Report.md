@@ -2,8 +2,10 @@
 
 **Name:** Anish Dasgupta
 **Student ID:** 136059250
-**Course Code:** MAI204 – MLOps
+**Course Code:** MAI201 – MLOps
 **Date:** 2026-06-04
+
+GIT URL - https://github.com/ADG2134/mlops-git-assignment-anish-dasgupta.git
 
 ---
 <img width="1512" height="982" alt="image" src="https://github.com/user-attachments/assets/5c8ea205-2855-414d-905d-5c7a63024a1d" />
@@ -36,14 +38,15 @@ Branch protection rules configured for the `main` branch:
 <img width="1512" height="982" alt="image" src="https://github.com/user-attachments/assets/d93f6020-9881-40d1-a787-ca880b1f10d1" />
 <img width="1512" height="982" alt="image" src="https://github.com/user-attachments/assets/860e997b-8074-44a8-bc11-433ab8a21379" />
 
-- ✅ Require a pull request before merging
-- ✅ Require at least 1 approval
-- ✅ Dismiss stale pull request approvals when new commits are pushed
-- ✅ Require linear history
-- ✅ Disable force pushes (Allow force pushes — unchecked)
-- ✅ Disable branch deletion (Allow deletions — unchecked)
+- Require a pull request before merging
+- Require at least 1 approval
+- Dismiss stale pull request approvals when new commits are pushed
+- Require linear history
+- Disable force pushes (Allow force pushes — unchecked)
+- Disable branch deletion (Allow deletions — unchecked)
 
-*(Attach branch protection screenshot here from: GitHub → Settings → Branches → main rule)*
+<img width="1512" height="982" alt="image" src="https://github.com/user-attachments/assets/95c71248-78f9-4c1e-8d4c-a293a4361550" />
+
 
 ---
 
@@ -82,7 +85,7 @@ Output of `git log --oneline --graph --all`:
 ## 4. Reflection on Merge Conflicts
 <img width="1512" height="982" alt="image" src="https://github.com/user-attachments/assets/5ae6a0ce-575f-42dc-a010-851d95cd7649" />
 
-Resolving the merge conflict in `README.md` between `feature/update-readme` and `develop` was the most challenging part of this assignment. Both branches had modified the same file in overlapping regions — `feature/update-readme` added the student name and ID (136059250), while `develop` had the course code (MAI204) and submission date added at approximately the same location in the file.
+Resolving the merge conflict in `README.md` between `feature/update-readme` and `develop` was the most challenging part of this assignment. Both branches had modified the same file in overlapping regions — `feature/update-readme` added the student name and ID (136059250), while `develop` had the course code (MAI201) and submission date added at approximately the same location in the file.
 
 Git could not automatically determine which changes to keep since both edits touched the end of the file. The conflict markers (`<<<<<<<`, `=======`, `>>>>>>>`) made it clear which version came from which branch, but resolving it required carefully editing the file to preserve both sets of changes.
 
