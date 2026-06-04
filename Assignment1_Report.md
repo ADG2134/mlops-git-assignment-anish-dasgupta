@@ -81,6 +81,7 @@ Output of `git log --oneline --graph --all`:
 ---
 
 ## 4. Reflection on Merge Conflicts
+<img width="1512" height="982" alt="image" src="https://github.com/user-attachments/assets/5ae6a0ce-575f-42dc-a010-851d95cd7649" />
 
 Resolving the merge conflict in `README.md` between `feature/update-readme` and `develop` was the most challenging part of this assignment. Both branches had modified the same file in overlapping regions — `feature/update-readme` added the student name and ID (136059250), while `develop` had the course code (MAI204) and submission date added at approximately the same location in the file.
 
