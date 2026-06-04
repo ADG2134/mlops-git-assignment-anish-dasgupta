@@ -72,6 +72,7 @@ Output of `git log --oneline --graph --all`:
 |/
 *   538254e (main) Add README.md with project details and setup instructions
 ```
+<img width="1512" height="982" alt="image" src="https://github.com/user-attachments/assets/8bdc01d4-e6a9-4a36-83e1-dcec68337afd" />
 
 ---
 
