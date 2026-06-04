@@ -16,6 +16,7 @@
 
 The repository was created with the correct naming convention: `mlops-git-assignment-anish-dasgupta`.
 The `develop` branch was successfully created from `main` and set as the default branch for pull requests.
+<img width="1512" height="982" alt="image" src="https://github.com/user-attachments/assets/bbe9badd-c80d-4338-92be-e4c39b5d7504" />
 
 All feature branches were branched from `develop`, had at least 2 commits each, and were merged back into `develop` via pull requests:
 
