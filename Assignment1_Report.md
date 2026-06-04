@@ -26,8 +26,6 @@ All feature branches were branched from `develop`, had at least 2 commits each, 
 - `feature/add-code-of-conduct` → PR #3 → merged into `develop`
 - `feature/update-readme` → PR #4 → merged into `develop` (with conflict resolution)
 
-*(Attach network graph screenshot here from: https://github.com/ADG2134/mlops-git-assignment-anish-dasgupta/network)*
-
 ---
 
 ## 2. Branch Protection Rules
