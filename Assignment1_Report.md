@@ -28,6 +28,9 @@ All feature branches were branched from `develop`, had at least 2 commits each, 
 ## 2. Branch Protection Rules
 
 Branch protection rules configured for the `main` branch:
+<img width="1512" height="982" alt="image" src="https://github.com/user-attachments/assets/78567b09-f7de-4c78-88e9-76759ef274a2" />
+<img width="1512" height="982" alt="image" src="https://github.com/user-attachments/assets/5b5e3b78-046e-451b-b796-722ebe2af30b" />
+<img width="1512" height="982" alt="image" src="https://github.com/user-attachments/assets/d93f6020-9881-40d1-a787-ca880b1f10d1" />
 
 - ✅ Require a pull request before merging
 - ✅ Require at least 1 approval
