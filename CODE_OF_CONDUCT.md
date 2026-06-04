@@ -31,3 +31,12 @@ Instances of abusive, harassing, or otherwise unacceptable behaviour may be repo
 
 ## Attribution
 This Code of Conduct is adapted from the Contributor Covenant, version 2.1.
+
+## Contact
+If you experience issues, contact the project maintainers at adg2134@example.com.
+
+## Reporting Guidelines
+Reports should include:
+- Description of the incident
+- Date and time
+- Any relevant context or screenshots
