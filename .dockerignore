@@ -48,3 +48,14 @@ logs/
 # Docs
 docs/
 *.md
+
+
+# CI/CD
+.github/
+.gitlab-ci.yml
+Jenkinsfile
+
+# Environment secrets
+*.env
+.env.*
+secrets/
