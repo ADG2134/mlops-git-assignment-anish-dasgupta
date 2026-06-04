@@ -32,3 +32,21 @@ Name: Anish Dasgupta
 ## Student Information
 **Name:** Anish Dasgupta
 **Student ID:** 136059250
+## Contributing
+Pull requests are welcome. Please open an issue first to discuss major changes.
+
+## Troubleshooting
+- Ensure Python version >= 3.9
+- Activate virtual environment before running scripts
+- Use `pip install --upgrade pip` if installation fails
+
+## License
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+## Acknowledgements
+- OpenCV community
+- MLOps course instructors
+
+## Course Details
+**Course Code:** MAI204 - MLOps
+**Submission Date:** 2026-06-04
