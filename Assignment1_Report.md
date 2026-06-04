@@ -11,6 +11,7 @@
 
 > Screenshot showing all branches and merges (paste from GitHub → Insights → Network):
 <img width="1512" height="982" alt="image" src="https://github.com/user-attachments/assets/657f92c3-f3f7-41b1-a485-7e50293afd15" />
+<img width="1512" height="982" alt="image" src="https://github.com/user-attachments/assets/02af24bc-d858-450d-b501-605665d02ca5" />
 
 The repository was created with the correct naming convention: `mlops-git-assignment-anish-dasgupta`.
 The `develop` branch was successfully created from `main` and set as the default branch for pull requests.
